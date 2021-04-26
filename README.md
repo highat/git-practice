@@ -3,5 +3,5 @@
 ローカルリポで変更
 new-feature branchで変更
 conflic branch
-GitHub上で更新
+GitHub上で更新2回目
 
